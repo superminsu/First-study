@@ -12,3 +12,5 @@
     </ul>
     <p>It is all of my study! forward, i'll keep adding!</p>
     <img src="cafeteria.jpg" width="400">
+    </body>
+    </html>
