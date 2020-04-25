@@ -9,6 +9,9 @@
     <ul>
       <li><a href="diary 1day.html">1DAY</a></li>
       <li><a href="diary 2day.html" target="_blank" title="zz">2DAY</a></li>
+      <li><a href="diary 3day.html">3DAY></a></li>
+      <li><a href="diary 4day.html">4DAY></a></li>
+      <li><a href="diray 5day.html">5DAY></a></li>
     </ul>
     <p>It is all of my study! forward, i'll keep adding!</p>
     <img src="cafeteria.jpg" width="400">
